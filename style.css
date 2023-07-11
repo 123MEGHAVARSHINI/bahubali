@@ -1,0 +1,41 @@
+body{
+    background:url("https://wallpaperaccess.com/full/2108483.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#heading{
+    color: snow whitesmoke;
+    background:rgb(178, 211, 66);
+    width:700px;
+    text-align:center;
+    margin:auto;
+}
+#content{
+    display: flex;
+    background:rgb(0,0,0,0.7);
+    height:400px;
+    width:1000px;
+    margin:auto;
+    margin-top:50px ;
+    justify-content: space-between;
+}
+img{
+    height: 150px;
+    width: 200px;
+    border:3px solid rgb(63, 169, 24);
+ 
+    border-bottom-left-radius:50%;
+    border-top-left-radius:50%;
+    border-top-right-radius:70%;
+ 
+    margin-left:20px;
+    margin-top:10px;
+}
+#title{
+    color: white;
+    display:flex;
+    width:1100px;
+    background: black;
+    margin:auto;
+    justify-content: space-around;
+}
